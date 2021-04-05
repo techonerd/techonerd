@@ -12,12 +12,21 @@
 <a href="https://dev.to/techonerd">
   <img align="left" alt="Ranjeet DEV" height="22" width="26px" src="https://img.icons8.com/windows/32/ffffff/dev.png"/>
 </a>
-<a href="https://open.spotify.com/user/31ejjw6vcpxdok5fw4mchwoiscqq?si=N-KcmL0sTxaC6CXiKJuHIw" target="blank">
+<a href="https://open.spotify.com/user/r1d62cx4laz31jw10iber1c3q?si=_8cvOFjAQa6PIBT1i_sxdA&nd=1" target="blank">
   <img align="left" src="https://img.icons8.com/metro/26/ffffff/spotify.png" alt="techonerd" height="22" width="22px" />
 </a>
 </div>
 <br>
 <br>
+<br>
+
+<ul>
+  <li><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working on Machine Learning, Web Development & API.</li>
+  <li><img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/> I’m currently learning Data Science.</li>
+  <li><img src="https://cultofthepartyparrot.com/parrots/hd/spyparrot.gif" width="25" height="25"/> I’m looking to collaborate on Open Source.</li>
+  <li><img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="25" height="25"/> Ask me about anything, its always fun to learn and discuss.</li>
+  <li><img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/> Fun fact: I am a Python enthusiast. </li>
+</ul>
 <br>
 
 <p align="center">
