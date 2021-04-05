@@ -20,6 +20,20 @@
 <br>
 <br>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=techonerd&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techonerd&layout=compact&theme=tokyonight" alt="languages" height="165">
+</p>
+<br>
+
+
+
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=techonerd&theme=gruvbox"/>
+  </a>
+</p>
 <!--
 **techonerd/techonerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
