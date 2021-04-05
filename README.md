@@ -1,7 +1,7 @@
-# Hi there 👋
+<!-- # Hi there 👋 -->
+# <img src=https://dylanyaworski.files.wordpress.com/2017/11/hi.gif width="170px" > 
 
-
-<h1>I am <a href="https://techonerd.github.io" target="_blank">Ranjeet Singh</a> a.k.a <a href="https://techonerd.github.io" target="_blank">techonerd</a>. </h1></p>
+<h1>I am <a href="https://techonerd.github.io" target="_blank">Ranjeet Singh</a> a.k.a <a href="https://techonerd.github.io" target="_blank">techonerd</a> </h1></p>
 <div align="centre">
 <a href="https://www.linkedin.com/in/ranjeet-singh-899182b6/">
 <img align="left" alt="Ranjeet LinkdeIN" height="22" width="22px" src="https://img.icons8.com/ios-glyphs/30/ffffff/linkedin.png" />
@@ -43,6 +43,22 @@
     <img src="https://github-profile-trophy.vercel.app/?username=techonerd&theme=gruvbox"/>
   </a>
 </p>
+
+<details>
+  <summary> Watch me Social 🤔 </summary>
+  <div>
+    <!-- <a href="https://twitter.com/shub______">
+      <img align="left" src="https://github-readme-twitter.gazf.vercel.app/api?id=shub______&layout=wide&show_reply=off&show_retweet=on" />
+    </a> -->
+    
+   <a href="https://open.spotify.com/user/r1d62cx4laz31jw10iber1c3qtracks?si=_8cvOFjAQa6PIBT1i&nd=1?si=_8cvOFjAQa6PIBT1i" target="_blank">
+    <img width="350px" src="https://open.spotify.com/user/r1d62cx4laz31jw10iber1c3qtracks?si=_8cvOFjAQa6PIBT1i&nd=1?si=_8cvOFjAQa6PIBT1i"/>
+  </a>
+  
+  
+ </p>
+  </div>
+</details>
 <!--
 **techonerd/techonerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
