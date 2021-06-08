@@ -44,13 +44,17 @@
   </a>
 </p>
 
-<details>
+<p align="center"> 
+  <img align="center" width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=techonerd&theme=dark" alt="suubh" /> 
+
+</p>
+<!-- <details>
   <summary> Watch me Social 🤔 </summary>
-  <div>
+  <div> -->
     <!-- <a href="https://twitter.com/shub______">
       <img align="left" src="https://github-readme-twitter.gazf.vercel.app/api?id=shub______&layout=wide&show_reply=off&show_retweet=on" />
     </a> -->
-    
+<!--     
    <a href="https://open.spotify.com/user/r1d62cx4laz31jw10iber1c3qtracks?si=_8cvOFjAQa6PIBT1i&nd=1?si=_8cvOFjAQa6PIBT1i" target="_blank">
     <img width="350px" src="https://open.spotify.com/user/r1d62cx4laz31jw10iber1c3qtracks?si=_8cvOFjAQa6PIBT1i&nd=1?si=_8cvOFjAQa6PIBT1i"/>
   </a>
@@ -58,7 +62,7 @@
   
  </p>
   </div>
-</details>
+</details> -->
 <!--
 **techonerd/techonerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
