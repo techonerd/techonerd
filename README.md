@@ -45,7 +45,7 @@
 </p>
 
 <p align="center"> 
-  <img align="center" width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=techonerd&theme=dark" alt="suubh" /> 
+  <img align="center" width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=techonerd&theme=dark" alt="techonerd" /> 
 
 </p>
 <!-- <details>
