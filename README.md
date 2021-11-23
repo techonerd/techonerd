@@ -15,7 +15,7 @@
 <a href="https://open.spotify.com/user/r1d62cx4laz31jw10iber1c3q?si=_8cvOFjAQa6PIBT1i_sxdA&nd=1" target="blank">
   <img align="left" src="https://img.icons8.com/metro/26/ffffff/spotify.png" alt="techonerd" height="22" width="22px" />
 </a>
-  <a href="https://app.daily.dev/techonerd"><img src="https://api.daily.dev/devcards/9b6b10843e07493bb23ce1a4e24cab02.png?r=142" width="400" alt="Ranjeet Singh's Dev Card"/></a>
+  <a href="https://app.daily.dev/techonerd"><img src="https://api.daily.dev/devcards/9b6b10843e07493bb23ce1a4e24cab02.png?r=142" width="400" align="right" alt="Ranjeet Singh's Dev Card"/></a>
 </div>
 <br>
 <br>
