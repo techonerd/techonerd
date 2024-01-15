@@ -11,6 +11,8 @@ on:
 jobs:
   snkcard:
     runs-on: ubuntu-latest
+    permissions:  # Optional for write permissions
+      contents: write
 
     steps:
       - uses: actions/checkout@v3
@@ -19,22 +21,21 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/github-snake.svg  # Specify the output path
+          outputs: dist/github-snake.svg
 
       - uses: actions/upload-artifact@v3
         with:
           name: github-snake-file
-          path: dist/github-snake.svg  # Upload the generated file
+          path: dist/github-snake.svg
 
       - uses: actions/download-artifact@v3
         with:
           name: github-snake-file
-          path: dist/  # Download to the dist/ directory
-          create_missing_directories: true 
+          path: dist/
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Add generated snake image"
-          branch: main  # Or the branch you want to commit to
+          branch: main
           file_pattern: dist/
