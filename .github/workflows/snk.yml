@@ -26,7 +26,6 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Create dist directory if needed
-        if: ${{ !pathExists('dist') }}
         run: mkdir -p dist
 
       - name: ensure the generated file exists
