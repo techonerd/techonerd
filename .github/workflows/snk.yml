@@ -6,14 +6,34 @@ on:
     branches:
       - main
   schedule:
-      - cron: "0 */24 * * *" 
+    - cron: "0 */24 * * *"
 
 jobs:
   snkcard:
     runs-on: ubuntu-latest
+
     steps:
+      - uses: actions/checkout@v3
+
       - name: snkcard
         uses: Platane/snk@v3
         with:
-           github_user_name: ${{ github.repository_owner }}
-           outputs: github-snake.svg
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/github-snake.svg  # Specify the output path
+
+      - uses: actions/upload-artifact@v3
+        with:
+          name: github-snake-file
+          path: dist/github-snake.svg  # Upload the generated file
+
+      - uses: actions/download-artifact@v3
+        with:
+          name: github-snake-file
+          path: dist/  # Download to the dist/ directory
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Add generated snake image"
+          branch: main  # Or the branch you want to commit to
+          file_pattern: dist/
