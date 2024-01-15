@@ -37,11 +37,6 @@ jobs:
           name: github-snake-file
           path: dist/github-contribution-grid-snake.svg
 
-      - uses: actions/download-artifact@v3
-        with:
-          name: github-snake-file
-          path: dist/github-contribution-grid-snake.svg
-
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
