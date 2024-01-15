@@ -4,7 +4,7 @@
 <h1>I am <a href="https://techonerd.github.io" target="_blank">Ranjeet Singh</a> a.k.a <a href="https://techonerd.github.io" target="_blank">techonerd</a> </h1></p>
 <div align="centre">
 <a href="https://www.linkedin.com/in/ranjeet-singh-899182b6/">
-<img align="left" alt="Ranjeet LinkdeIN" height="22" width="22px" src="https://img.icons8.com/ios-glyphs/30/ffffff/linkedin.png" />
+<img align="left" alt="Ranjeet LinkedIN" height="22" width="22px" src="https://img.icons8.com/ios-glyphs/30/ffffff/linkedin.png" />
 </a>
 <a href = "mailto:ranjeet6198@live.com">
 <img align="left" alt="Ranjeet Gmail" height="22" width="22px" src="https://img.icons8.com/ios-glyphs/30/ffffff/gmail.png" />
@@ -48,7 +48,7 @@
 
 </p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
