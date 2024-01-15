@@ -32,7 +32,7 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=techonerd&show_icons=true&theme=transparent" alt="my github stats"/>&nbsp;
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techonerd&layout=compact&theme=transparent" alt="languages" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techonerd&layout=compact&theme=transparent" alt="languages" height="196">
 </p>
 
 <br>
