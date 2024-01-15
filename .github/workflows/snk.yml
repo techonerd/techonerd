@@ -30,6 +30,7 @@ jobs:
         with:
           name: github-snake-file
           path: dist/  # Download to the dist/ directory
+          create_missing_directories: true 
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
