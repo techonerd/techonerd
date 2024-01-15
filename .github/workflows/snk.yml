@@ -20,8 +20,18 @@ jobs:
       - name: snkcard
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: dist/github-snake.svg
+          github_user_name: techonerd
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Create dist directory if needed
+        if: ${{ !pathExists('dist') }}
+        run: mkdir -p dist
+
+      - name: ensure the generated file exists
+        run: |
+          ls dist
 
       - uses: actions/upload-artifact@v3
         with:
