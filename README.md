@@ -31,24 +31,31 @@
 <br>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=techonerd&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techonerd&layout=compact&theme=tokyonight" alt="languages" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=techonerd&show_icons=true&theme=transparent" alt="my github stats"/>&nbsp;
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techonerd&layout=compact&theme=transparent" alt="languages" height="165">
 </p>
 
 <br>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=techonerd&theme=gruvbox"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=techonerd&theme=darkhub&no-bg=true&row=1"/>
   </a>
+</p>
+<p>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
+  <img alt="github-snake" src="dist/github-contribution-grid-snake.svg" />
+</picture>
 </p>
 
 <p align="center"> 
-  <img align="center" width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=techonerd&theme=dark" alt="techonerd" /> 
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=techonerd&theme=swift" alt="techonerd" align="center" width="450"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=techonerd&theme=highcontrast" alt="techonerd" align="center" width="450"/>
+  <img alt="techonerd-streak" src="https://github-readme-streak-stats.herokuapp.com/?user=techonerd&theme=swift" />
+</picture>
+  <!-- <img align="center" width="450"  src="[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=techonerd)" alt="techonerd" />  -->
 
 </p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
